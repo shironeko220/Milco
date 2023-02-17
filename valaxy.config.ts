@@ -23,6 +23,11 @@ export default defineValaxyConfig<UserThemeConfig>({
       },
     },
 
+    // bg_image: {
+    //   enable: true,
+    //   url:'',
+    // },
+
     pages: [
       {
         name: '我的小伙伴们',
