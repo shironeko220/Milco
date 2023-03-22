@@ -55,7 +55,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         animated: true,
         color: 'skyblue',
         title: 'valaxy-yun',
-        url: 'www.milco.fun'
+        url: ''
       }
     },
   },
