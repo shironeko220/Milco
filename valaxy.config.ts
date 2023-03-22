@@ -44,11 +44,19 @@ export default defineValaxyConfig<UserThemeConfig>({
     ],
 
     footer: {
-      // since: 2016,
+      since: 2023,
       beian: {
         enable: true,
         icp: '', // 备案号
       },
+      icon: {
+        enable: true,
+        name: 'i-ri-cloud-line',
+        animated: true,
+        color: 'skyblue',
+        title: 'valaxy-yun',
+        url: 'www.milco.fun'
+      }
     },
   },
 

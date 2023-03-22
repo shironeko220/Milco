@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
+  url: 'https://milco.fun/',
   lang: 'zh-CN',
   subtitle: '',
   title: '沐可的小站',
@@ -12,7 +12,7 @@ export default defineSiteConfig({
       emoji: '🎀'
     }
   },
-  description: '不会git的女人毫无魅力',
+  description: '爱如雨下，恋如雨止，思如星远，念如岁长',
   social: [
     {
       name: 'RSS',
@@ -104,19 +104,19 @@ export default defineSiteConfig({
     methods: [
       {
         name: '支付宝',
-        url: 'https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg',
+        url: 'https://r2.milco.fun/alipay-qrcode.jpg',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: 'QQ 支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png',
+        url: 'https://r2.milco.fun/qqpay-qrcode.jpg',
         color: '#12B7F5',
         icon: 'i-ri-qq-line',
       },
       {
         name: '微信支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg',
+        url: 'https://r2.milco.fun/wechatpay-qrcode.jpg',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
