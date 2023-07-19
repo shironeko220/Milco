@@ -28,7 +28,7 @@ export default defineSiteConfig({
     },
     {
       name: '商务微信',
-      url: 'https://r2.milco.fun/wechat-qrcode.png',
+      link: 'https://r2.milco.fun/wechat-qrcode.png',
       icon: 'i-ri-wechat-2-line',
       color: '#1AAD19',
     },
