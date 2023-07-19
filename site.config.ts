@@ -27,6 +27,12 @@ export default defineSiteConfig({
       color: '#12B7F5',
     },
     {
+      name: '商务微信',
+      url: 'https://r2.milco.fun/wechat-qrcode.png',
+      icon: 'i-ri-wechat-2-line',
+      color: '#1AAD19',
+    },
+    {
       name: 'GitHub',
       link: 'https://github.com/shironeko220',
       icon: 'i-ri-github-line',
@@ -62,12 +68,6 @@ export default defineSiteConfig({
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
-    // {
-    //   name: '微信公众号',
-    //   link: '',
-    //   icon: 'i-ri-wechat-2-line',
-    //   color: '#1AAD19',
-    // },
     // {
     //   name: 'Twitter',
     //   link: 'https://twitter.com/YunYouJun',
